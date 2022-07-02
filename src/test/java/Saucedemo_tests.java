@@ -13,6 +13,8 @@ import java.util.concurrent.TimeUnit;
 
 public class Saucedemo_tests {
 
+    //test wersji 2.0
+
     // tu powinny byc before each???
 
     // implicit wait - dodać do before all
